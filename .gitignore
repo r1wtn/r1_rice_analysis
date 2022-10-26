@@ -1,0 +1,11 @@
+.venv/
+src/scripts/
+!src/scripts/.gitkeep
+**/__pycache__/
+**/saved_models/
+**/result/
+**/logs/
+**/tensorboard/
+
+data_storage
+data_to_analysis
